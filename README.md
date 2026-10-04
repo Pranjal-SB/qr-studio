@@ -35,7 +35,7 @@ Browser-only QR code generator and designer built for GDG on Campus SRM recruitm
   - Corner eye square and dot shapes: square, extra-rounded, dot
   - Custom logo overlay support (auto-upgrades ECL to High)
 - **Presets**:
-  - 5 quick presets: Plain, Ink, Lagoon, Ember, Moss.
+  - 5 quick presets: Parchment, Sage, Dusk, Ember, Slate.
   - Full customization remains unlocked after selecting any preset.
 - **Scan Reliability Engine**:
   - WCAG-style relative luminance contrast ratio calculation.
